@@ -1,0 +1,19 @@
+{
+  "name": "roundme-supported",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roundme-supported.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/roundme/roundme-supported.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roundme/roundme-supported/issues"
+  },
+  "homepage": "https://github.com/roundme/roundme-supported#readme"
+}
